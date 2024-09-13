@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "swords_of_the_seven_seas:golden_cutlass"
+  },
+  "result": "minecraft:gold_nugget"
+}

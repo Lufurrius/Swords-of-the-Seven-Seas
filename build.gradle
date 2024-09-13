@@ -166,18 +166,18 @@ dependencies {
     minecraft "net.minecraftforge:forge:${minecraft_version}-${forge_version}"
     annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
 
-    compileOnly fg.deobf("curse.maven:oreganized-769203:4377982")
-    compileOnly fg.deobf("curse.maven:undergarden-379849:4057184")
-    compileOnly fg.deobf("curse.maven:enlightend-502786:4853084")
-    //runtimeOnly fg.deobf("curse.maven:curios-309927:5494603")
-    compileOnly fg.deobf("curse.maven:alloyed-564792:4591571")
-    //runtimeOnly fg.deobf("curse.maven:create-328085:4625534")
-    compileOnly fg.deobf("curse.maven:undeadunleashed-817279:4608393")
-    //runtimeOnly fg.deobf("curse.maven:geckolib-388172:4407241")
-    compileOnly fg.deobf("curse.maven:cavernsandchasms-438005:5222972")
-    //compileOnly fg.deobf("com.teamabnormals:blueprint:1.19.2-6.2.0")
-    compileOnly fg.deobf("maven.modrinth:deeper_caves:1.0.0")
-    compileOnly fg.deobf("curse.maven:createstuffadditions-466792:4703283")
+    implementation fg.deobf("curse.maven:oreganized-769203:4377982")
+    implementation fg.deobf("curse.maven:undergarden-379849:4057184")
+    implementation fg.deobf("curse.maven:enlightend-502786:4853084")
+    runtimeOnly fg.deobf("curse.maven:curios-309927:5494603")
+    implementation fg.deobf("curse.maven:alloyed-564792:4591571")
+    runtimeOnly fg.deobf("curse.maven:create-328085:4625534")
+    implementation fg.deobf("curse.maven:undeadunleashed-817279:4608393")
+    runtimeOnly fg.deobf("curse.maven:geckolib-388172:4407241")
+    implementation fg.deobf("curse.maven:cavernsandchasms-438005:5222972")
+    runtimeOnly fg.deobf("com.teamabnormals:blueprint:1.19.2-6.2.0")
+    implementation fg.deobf("maven.modrinth:deeper_caves:1.0.0")
+    implementation fg.deobf("curse.maven:createstuffadditions-466792:4703283")
     //implementation fg.deobf("maven.modrinth:spirit:O2ODSmxF")
 
     // Example mod dependency with JEI - using fg.deobf() ensures the dependency is remapped to your development mappings
