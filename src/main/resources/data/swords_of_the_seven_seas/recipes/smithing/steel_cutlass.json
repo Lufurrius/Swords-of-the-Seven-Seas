@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "swords_of_the_seven_seas:iron_cutlass"
+  },
+  "addition": {
+    "tag": "forge:ingots/steel"
+  },
+  "result": {
+    "item": "swords_of_the_seven_seas:steel_cutlass"
+  }
+}

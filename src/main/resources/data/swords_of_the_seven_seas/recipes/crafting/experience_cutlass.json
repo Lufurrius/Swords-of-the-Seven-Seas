@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "create_sa:zinc_handle"
+    },
+    "X": {
+      "item": "create_sa:heap_of_experience"
+    }
+  },
+  "pattern": [
+    "  X",
+    " X ",
+    "#  "
+  ],
+  "result": {
+    "item": "swords_of_the_seven_seas:experience_cutlass"
+  },
+  "show_notification": true
+}

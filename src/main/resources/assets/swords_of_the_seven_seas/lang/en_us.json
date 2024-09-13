@@ -1,0 +1,41 @@
+{
+    "itemGroup.swords_of_the_seven_seas": "Cutlasses",
+
+
+    "item.swords_of_the_seven_seas.iron_cutlass": "Iron Cutlass",
+    "item.swords_of_the_seven_seas.golden_cutlass": "Golden Cutlass",
+    "item.swords_of_the_seven_seas.diamond_cutlass": "Diamond Cutlass",
+    "item.swords_of_the_seven_seas.netherite_cutlass": "Netherite Cutlass",
+
+    "item.swords_of_the_seven_seas.emerald_cutlass": "Gilded Cutlass",
+
+    "item.swords_of_the_seven_seas.electrum_cutlass": "Electrum Cutlass",
+    "item.swords_of_the_seven_seas.lead_cutlass": "Lead Cutlass",
+
+    "item.swords_of_the_seven_seas.grave_metal_cutlass": "Grave Metal Cutlass",
+
+    "item.swords_of_the_seven_seas.froststeel_cutlass": "Froststeel Cutlass",
+    "item.swords_of_the_seven_seas.utherium_cutlass": "Utherium Cutlass",
+    "item.swords_of_the_seven_seas.forgotten_cutlass": "Forgotten Cutlass",
+    "item.swords_of_the_seven_seas.cloggrum_cutlass": "Cloggrum Cutlass",
+
+    "item.swords_of_the_seven_seas.steel_cutlass": "Steel Cutlass",
+
+    "item.swords_of_the_seven_seas.zinc_cutlass": "Zinc Cutlass",
+    "item.swords_of_the_seven_seas.brass_cutlass": "Brass Cutlass",
+    "item.swords_of_the_seven_seas.Copper_cutlass": "Copper Cutlass",
+    "item.swords_of_the_seven_seas.experience_cutlass": "Experience Cutlass",
+    "item.swords_of_the_seven_seas.rose_quartz_cutlass": "Gilded Quartz Cutlass",
+
+    "item.swords_of_the_seven_seas.rose_gold_cutlass": "Rose Gold Cutlass",
+
+    "item.swords_of_the_seven_seas.adamantite_cutlass": "Adamantite Cutlass",
+
+    "item.swords_of_the_seven_seas.silver_cutlass": "Silver Cutlass",
+    "item.swords_of_the_seven_seas.necromium_cutlass": "Necromium Cutlass",
+
+
+    "tooltip.swords_of_the_seven_seas.lead_cutlass": "Poisons targets.",
+
+    "enchantment.swords_of_the_seven_seas.balanced": "Balanced"
+}

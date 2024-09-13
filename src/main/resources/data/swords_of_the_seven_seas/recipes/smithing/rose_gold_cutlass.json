@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "swords_of_the_seven_seas:golden_cutlass"
+  },
+  "addition": {
+    "item": "cavesanddepths:rosegoldingot"
+  },
+  "result": {
+    "item": "swords_of_the_seven_seas:rose_gold_cutlass"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "swords_of_the_seven_seas:iron_cutlass"
+  },
+  "addition": {
+    "item": "enlightened_end:adamantite_ingot"
+  },
+  "result": {
+    "item": "swords_of_the_seven_seas:adamantite_cutlass"
+  }
+}

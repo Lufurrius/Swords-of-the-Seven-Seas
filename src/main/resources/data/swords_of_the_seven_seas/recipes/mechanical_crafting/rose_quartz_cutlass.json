@@ -1,0 +1,27 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "#": {
+      "tag": "create:polished_rose_quartz"
+    },
+    "/": {
+      "tag": "create_sa:zinc_handle"
+    },
+    "_": {
+      "item": "create:iron_sheet"
+    },
+    "O": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "   #",
+    "_ # ",
+    " O  ",
+    "/ _ "
+  ],
+  "result": {
+    "item": "swords_of_the_seven_seas:rose_quartz_cutlass"
+  }
+}

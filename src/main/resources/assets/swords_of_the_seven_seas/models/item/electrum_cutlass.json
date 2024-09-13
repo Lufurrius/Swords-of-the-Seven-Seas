@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "swords_of_the_seven_seas:item/cutlass/electrum_cutlass"
+  }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/0.0.1.Swords-of-the-Seven-Seas.main.iml" filepath="$PROJECT_DIR$/.idea/modules/0.0.1.Swords-of-the-Seven-Seas.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/0.0.1.Swords-of-the-Seven-Seas.test.iml" filepath="$PROJECT_DIR$/.idea/modules/0.0.1.Swords-of-the-Seven-Seas.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Swords-of-the-Seven-Seas.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Swords-of-the-Seven-Seas.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Swords-of-the-Seven-Seas.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Swords-of-the-Seven-Seas.test.iml" />
+    </modules>
+  </component>
+</project>

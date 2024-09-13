@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "package": "com.lufurrius.swordsofthesevenseas.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "swords_of_the_seven_seas.refmap.json",
+  "mixins": [
+    "EnchantmentMixin"
+  ],
+  "minVersion": "0.8"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "swords_of_the_seven_seas:cloggrum_cutlass"
+  },
+  "addition": {
+    "item": "undergarden:forgotten_ingot"
+  },
+  "result": {
+    "item": "swords_of_the_seven_seas:forgotten_cutlass"
+  }
+}
