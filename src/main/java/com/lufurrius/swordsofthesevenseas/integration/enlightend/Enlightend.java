@@ -1,13 +1,11 @@
 package com.lufurrius.swordsofthesevenseas.integration.enlightend;
 
-import com.lufurrius.swordsofthesevenseas.Swords_of_the_Seven_Seas;
 import com.lufurrius.swordsofthesevenseas.items.CutlassItem;
 import net.mcreator.enlightened_end.init.EnlightenedEndModItems;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Tier;
 import net.minecraft.world.item.crafting.Ingredient;
-import net.minecraft.world.level.ItemLike;
 import net.minecraftforge.registries.RegistryObject;
 
 import static com.lufurrius.swordsofthesevenseas.registry.ModItems.ITEMS;

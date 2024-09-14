@@ -1,6 +1,5 @@
 package com.lufurrius.swordsofthesevenseas.loot;
 
-import com.lufurrius.swordsofthesevenseas.integration.CompatabilityHandler;
 import com.lufurrius.swordsofthesevenseas.integration.caverns_and_chasms.CavernsAndChasms;
 import com.lufurrius.swordsofthesevenseas.registry.ModItems;
 import net.minecraft.world.level.storage.loot.LootPool;
@@ -8,7 +7,6 @@ import net.minecraft.world.level.storage.loot.entries.LootItem;
 import net.minecraft.world.level.storage.loot.predicates.LootItemRandomChanceCondition;
 import net.minecraft.world.level.storage.loot.providers.number.ConstantValue;
 import net.minecraft.world.level.storage.loot.providers.number.UniformGenerator;
-import net.minecraftforge.fml.ModList;
 import net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction;
 
 import java.util.HashMap;

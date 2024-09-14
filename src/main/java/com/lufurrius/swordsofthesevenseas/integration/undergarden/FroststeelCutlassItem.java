@@ -1,6 +1,5 @@
 package com.lufurrius.swordsofthesevenseas.integration.undergarden;
 
-import com.lufurrius.swordsofthesevenseas.Swords_of_the_Seven_Seas;
 import com.lufurrius.swordsofthesevenseas.items.CutlassItem;
 import net.minecraft.ChatFormatting;
 import net.minecraft.network.chat.Component;
@@ -11,9 +10,6 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Tier;
 import net.minecraft.world.item.TooltipFlag;
 import net.minecraft.world.level.Level;
-import net.minecraftforge.event.entity.living.LivingHurtEvent;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
-import net.minecraftforge.fml.common.Mod;
 import org.jetbrains.annotations.NotNull;
 
 import javax.annotation.Nullable;

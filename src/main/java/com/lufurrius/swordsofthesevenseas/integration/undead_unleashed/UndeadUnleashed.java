@@ -1,8 +1,6 @@
 package com.lufurrius.swordsofthesevenseas.integration.undead_unleashed;
 
-import com.lufurrius.swordsofthesevenseas.Swords_of_the_Seven_Seas;
 import com.lufurrius.swordsofthesevenseas.items.CutlassItem;
-import galena.oreganized.index.OItems;
 import net.mcreator.undead_unleashed.init.UndeadUnleashedModItems;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;

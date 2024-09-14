@@ -1,14 +1,11 @@
 package com.lufurrius.swordsofthesevenseas.integration.stuff_and_additions;
 
-import com.lufurrius.swordsofthesevenseas.Swords_of_the_Seven_Seas;
 import com.lufurrius.swordsofthesevenseas.items.CutlassItem;
-import com.teamabnormals.caverns_and_chasms.core.other.CCTiers.CCItemTiers;
 import net.mcreator.createstuffadditions.init.CreateSaModItems;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.tags.ItemTags;
 import net.minecraft.world.item.*;
 import net.minecraft.world.item.crafting.Ingredient;
-import net.minecraft.world.level.ItemLike;
 import net.minecraftforge.registries.RegistryObject;
 
 import static com.lufurrius.swordsofthesevenseas.registry.ModItems.ITEMS;

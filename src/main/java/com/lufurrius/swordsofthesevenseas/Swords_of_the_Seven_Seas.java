@@ -1,13 +1,6 @@
 package com.lufurrius.swordsofthesevenseas;
 
 import com.lufurrius.swordsofthesevenseas.events.LootTableEventHandler;
-import com.lufurrius.swordsofthesevenseas.loot.LootMappings;
-import com.lufurrius.swordsofthesevenseas.loot.LootPools;
-import com.lufurrius.swordsofthesevenseas.loot.LootTables;
-import net.minecraft.resources.ResourceLocation;
-import net.minecraft.world.level.storage.loot.LootTable;
-import net.minecraftforge.event.LootTableLoadEvent;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
 import com.lufurrius.swordsofthesevenseas.integration.CompatabilityHandler;
 import com.lufurrius.swordsofthesevenseas.registry.ModItems;
@@ -15,10 +8,8 @@ import com.lufurrius.swordsofthesevenseas.registry.ModEnchantments;
 import com.mojang.logging.LogUtils;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.level.storage.loot.LootTable;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
-import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 

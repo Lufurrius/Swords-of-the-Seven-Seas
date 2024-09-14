@@ -1,6 +1,5 @@
 package com.lufurrius.swordsofthesevenseas.integration.undergarden;
 
-import com.lufurrius.swordsofthesevenseas.Swords_of_the_Seven_Seas;
 import com.lufurrius.swordsofthesevenseas.items.CutlassItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.registries.RegistryObject;

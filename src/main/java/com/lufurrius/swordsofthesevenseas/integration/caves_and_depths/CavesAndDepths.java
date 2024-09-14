@@ -1,11 +1,8 @@
 package com.lufurrius.swordsofthesevenseas.integration.caves_and_depths;
 
 import com.lufurrius.swordsofthesevenseas.items.CutlassItem;
-import net.mcreator.cavesanddepths.init.CavesanddepthsModItems;
-import net.mcreator.enlightened_end.init.EnlightenedEndModItems;
 import net.minecraft.world.item.*;
 import net.minecraft.world.item.crafting.Ingredient;
-import net.minecraft.world.level.ItemLike;
 import net.minecraftforge.registries.RegistryObject;
 
 import static com.lufurrius.swordsofthesevenseas.registry.ModItems.ITEMS;

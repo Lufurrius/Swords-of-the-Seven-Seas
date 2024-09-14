@@ -12,7 +12,7 @@ group = mod_version
 version = mod_group_id
 
 base {
-    archivesName = mod_id
+    archivesName = "${mod_id}-${minecraft_version}-${mod_version}"
 }
 
 java {
@@ -223,19 +223,18 @@ tasks.named('processResources', ProcessResources).configure {
 
 // Example for how to get properties into the manifest for reading at runtime.
 tasks.named('jar', Jar).configure {
+    archiveFileName = "${mod_id}-${minecraft_version}-${mod_version}.jar" // Set the desired output file name
     manifest {
         attributes([
                 "Specification-Title": mod_id,
                 "Specification-Vendor": mod_authors,
-                "Specification-Version": "1", // We are version 1 of ourselves
+                "Specification-Version": "1",
                 "Implementation-Title": project.name,
                 "Implementation-Version": project.jar.archiveVersion,
                 "Implementation-Vendor": mod_authors,
                 "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
         ])
     }
-
-    // This is the preferred method to reobfuscate your jar file
     finalizedBy 'reobfJar'
 }
 
